@@ -1,0 +1,3 @@
+compiled and ran via comand line with:
+	llvm-gcc -o hello hello.m
+	./hello

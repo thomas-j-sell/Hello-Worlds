@@ -1,0 +1,3 @@
+compiled and ran via command line with:
+	g++ -o hello hello.cpp
+	./hello

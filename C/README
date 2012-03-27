@@ -1,0 +1,3 @@
+Compiled and ran via command line with
+	gcc -o hello hello.c
+	./hello
