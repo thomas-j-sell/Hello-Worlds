@@ -1,0 +1,4 @@
+compiled and run via command line using jhbuild shell
+	jhbuild shell
+		gcc -o hello_gtk hello_gtk.c `pkg-config --cflags --libs gtk+-2.0`
+	./hello_gtk
